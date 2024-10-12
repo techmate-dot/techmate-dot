@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techmate-dot
-- 👀 I’m interested in Backend and front end development
-- 🌱 I’m currently learning Machine C Programming
+- 👀 I’m interested in IOT and app Developer.
+- 🌱 I’m currently learning Machine an d C Programming
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me snwankwo218@gmail.com
 
