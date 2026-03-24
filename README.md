@@ -9,7 +9,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/snc01)
 
 ---
-
-### 📊 GitHub Stats
-
-![techmate-dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=techmate-dot&show_icons=true&theme=radical)
