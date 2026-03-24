@@ -7,5 +7,3 @@
 - 🎵 **Beyond Coding:** I enjoy listening to music and brainstorming new ideas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/snc01)
-
----
